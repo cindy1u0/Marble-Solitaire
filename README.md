@@ -1,5 +1,5 @@
 # Design
-This project creates the classic game, [Peg Solitaire](https://www.webgamesonline.com/peg-solitaire/),
+This project creates a classic game, [Peg Solitaire](https://www.webgamesonline.com/peg-solitaire/),
 that was first played in the 1600s. In this
 project, there are two additional types to the board besides the traditional English board type,
 including European board and Triangular board. This project not only allows the user to play the
