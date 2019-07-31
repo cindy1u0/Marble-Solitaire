@@ -26,7 +26,7 @@ position of the empty cell and the size of the board. The constructor also ensur
 cell position and the size inputted are valid (even number of size is invalid for English and
 European board).
 
-As for controller, I separated the command-line one and the visual one. Additionally, a **FactoryController**
+As for controller, I separated the command-line one and the visual one. Additionally, a `FactoryController`
 handles which one will be used in the main run configuration.
 
 ## Command-Line Mode
