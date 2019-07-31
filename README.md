@@ -7,7 +7,7 @@ game in a java panel but also in the command-prompt/terminal.
 
 ## Model and Controller
 The way to handle different representation of the status of each location is to use an enum class.
-The enum class **Fields** consists ***X*** (no marbles), ***O*** (marble), and ***INVALID***
+The enum class `Fields` consists ***X*** (no marbles), ***O*** (marble), and ***INVALID***
 (invalid position). It makes is clearer to the user what is going on at the current position.
 Additionally, similar method is also applied to the board types. The enum class **SolitaireTypes**
 provides 3 different representations of the board: ***CLASSIC***, ***EUROPEAN***, and ***TRIANGULAR***.
